@@ -1,0 +1,12 @@
+[ {
+  "id" : 1,
+  "courseName" : "Java",
+  "startDate" : "2021-11-07",
+  "weekDuration" : 15,
+  "students" : [ {
+    "id" : 1,
+    "name" : "Haris gusinac",
+    "email" : "hgusinac@gmail.com",
+    "address" : "örngatan 2 12345 555"
+  } ]
+} ]
